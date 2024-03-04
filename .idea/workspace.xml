@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6269e0dc-14c7-4e02-9593-290fefbb5cb3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Holiday Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dto/Request/CheckBalanceRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dto/Request/CreateAccountRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dto/Request/DepositRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dto/Request/GenerateAccountNameRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dto/Request/GenerateAccountNumberRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dto/Request/TransactionHistoryRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dto/Request/TransferRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dto/Request/UpdatePinRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dto/Request/WithdrawRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fintech/Controller/SwiftPayController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fintech/Data/Model/SwiftBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fintech/Data/Model/SwiftPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fintech/Data/Model/TransactionHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fintech/Data/Repository/SwiftRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fintech/Data/Repository/SwiftRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fintech/Services/SwiftPayService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fintech/Services/SwiftService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testFintech/TestSwiftPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testFintech/testForFintech.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Xbu9cXSDid9LtziODKf8HY1Bp5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="TestSwiftPay.testForDeposit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Holiday Project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestSwiftPay" />
+      <option name="METHOD_NAME" value="testForDeposit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSwiftPay.testForWithdraw" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Holiday Project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestSwiftPay" />
+      <option name="METHOD_NAME" value="testForWithdraw" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSwiftPay.testToDisplayAllTransaction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Holiday Project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestSwiftPay" />
+      <option name="METHOD_NAME" value="testToDisplayAllTransaction" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSwiftPay.testWeCanCreateAccount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Holiday Project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestSwiftPay" />
+      <option name="METHOD_NAME" value="testWeCanCreateAccount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSwiftPay.testWeCanTransfer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Holiday Project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestSwiftPay" />
+      <option name="METHOD_NAME" value="testWeCanTransfer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestSwiftPay.testToDisplayAllTransaction" />
+        <item itemvalue="JUnit.TestSwiftPay.testWeCanTransfer" />
+        <item itemvalue="JUnit.TestSwiftPay.testForWithdraw" />
+        <item itemvalue="JUnit.TestSwiftPay.testForDeposit" />
+        <item itemvalue="JUnit.TestSwiftPay.testWeCanCreateAccount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6269e0dc-14c7-4e02-9593-290fefbb5cb3" name="Changes" comment="" />
+      <created>1698909951533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698909951533</updated>
+      <workItem from="1698909952744" duration="19609000" />
+      <workItem from="1699525054150" duration="551000" />
+      <workItem from="1699642986318" duration="1439000" />
+      <workItem from="1699734450626" duration="19823000" />
+      <workItem from="1699862931478" duration="4192000" />
+      <workItem from="1699878093845" duration="6139000" />
+      <workItem from="1699893274356" duration="339000" />
+      <workItem from="1699894030504" duration="6385000" />
+      <workItem from="1699959002955" duration="417000" />
+      <workItem from="1699964909887" duration="4508000" />
+      <workItem from="1699993231248" duration="1132000" />
+      <workItem from="1700088247156" duration="8387000" />
+      <workItem from="1700129903231" duration="4417000" />
+      <workItem from="1700223504586" duration="31969000" />
+      <workItem from="1700337049284" duration="29478000" />
+      <workItem from="1700664710136" duration="662000" />
+      <workItem from="1701037771340" duration="228000" />
+      <workItem from="1705614902022" duration="1290000" />
+      <workItem from="1705655102127" duration="15000" />
+      <workItem from="1709586377703" duration="2678000" />
+      <workItem from="1709589410665" duration="2653000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
